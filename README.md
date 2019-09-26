@@ -4,6 +4,11 @@
 
 Softmax=f(z_i)=\frac{e^{z_i}}{\sum\limits_{i=1}^c e^{z_i}}=y_i
 ```
+
+\begin{equation*}
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+\end{equation*}
+
 ### Derivative of Softmax
 
 $$y_j=\frac{e^{z_j}}{\sum\limits_{i=j}^c e^{z_j}}$$
