@@ -1,7 +1,8 @@
 > All bellow equations are only based on one sample for simplication, the index $i,j$ refer to different dimensions.
 
-$$Softmax=f(z_i)=\frac{e^{z_i}}{\sum\limits_{i=1}^c e^{z_i}}=y_i$$
-
+``` math
+Softmax=f(z_i)=\frac{e^{z_i}}{\sum\limits_{i=1}^c e^{z_i}}=y_i
+```
 ### Derivative of Softmax
 
 $$y_j=\frac{e^{z_j}}{\sum\limits_{i=j}^c e^{z_j}}$$
