@@ -5,16 +5,9 @@
 Softmax=f(z_i)=\frac{e^{z_i}}{\sum\limits_{i=1}^c e^{z_i}}=y_i
 ```
 
-\begin{equation*}
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-\end{equation*}
-
-\begin{aligned}
-\nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}} \\   \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\
-\nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\
-\nabla \cdot \vec{\mathbf{B}} & = 0 
-\end{aligned}
-
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
 
 ### Derivative of Softmax
 
