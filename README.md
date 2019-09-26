@@ -1,1 +1,1 @@
-![d](https://github.com/postpascal/ANNnumpyMNIST/blob/master/Softmax.png)
+![d](https://github.com/postpascal/ANNnumpyMNIST/blob/master/weightsupdate.png)
