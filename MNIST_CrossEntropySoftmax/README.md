@@ -1,1 +1,1 @@
-![README](MNIST_CrossEntropySoftmax/weightsupdate.png)
+![README](https://github.com/postpascal/MachineLearningSteps/blob/master/MNIST_CrossEntropySoftmax/weightsupdate.png)
