@@ -1,0 +1,1 @@
+![README](https://github.com/postpascal/MachineLearningSteps/blob/master/RNN/RNNByHands.png)
